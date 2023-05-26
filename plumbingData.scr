@@ -1,8 +1,5 @@
 // plumbingData.scr
 
-const HOUSE_WIDTH = 40;    // Width of the house in feet
-const HOUSE_LENGTH = 35;   // Length of the house in feet
-
 // Define the positions of the bathroom fixtures
 const BATHROOM_X = 18;     // X position of the bathroom fixtures
 const BATHROOM_Y = 6;      // Y position of the bathroom fixtures
