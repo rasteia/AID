@@ -1,0 +1,7 @@
+// plumbingData.scr
+
+// Place bathroom fixtures
+placeBathroomFixtures(100, 400);
+
+// Place kitchen fixtures
+placeKitchenFixtures(600, 400);
