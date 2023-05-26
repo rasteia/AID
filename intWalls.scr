@@ -1,0 +1,11 @@
+// intWalls.scr
+
+// Function to place an interior wall
+function placeInteriorWall(x1, y1, x2, y2) {
+    // Implementation for placing an interior wall
+    // Use the provided coordinates (x1, y1) and (x2, y2) to draw the wall
+    // ...
+}
+
+// Include the interior wall placement data
+include "intWallsData.scr";
