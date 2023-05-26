@@ -1,0 +1,26 @@
+// homeBlueprint.scr
+
+// Dimensions
+const WIDTH = 800;    // Width of the home in pixels
+const HEIGHT = 600;   // Height of the home in pixels
+
+// Windows
+include "windows.scr";
+
+// Doors
+include "doors.scr";
+
+// Interior Walls
+include "intWalls.scr";
+
+// Plumbing
+include "plumbing.scr";
+
+// Main Floorplan
+drawRectangle(0, 0, WIDTH, HEIGHT);
+
+// Entry point
+include "windowsData.scr";
+include "doorsData.scr";
+include "intWallsData.scr";
+include "plumbingData.scr";
