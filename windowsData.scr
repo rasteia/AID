@@ -1,0 +1,12 @@
+// windowsData.scr
+
+// Function to place a window
+function placeWindow(x, y) {
+    // Implementation for placing a window
+    // ...
+}
+
+// Place windows
+placeWindow(100, 200);
+placeWindow(300, 200);
+placeWindow(500, 200);
