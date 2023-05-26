@@ -13,3 +13,7 @@ placeBathroomFixtures(BATHROOM_X, BATHROOM_Y);
 
 // Place the kitchen fixtures
 placeKitchenFixtures(KITCHEN_X, KITCHEN_Y);
+
+// Call the toilet script and place the toilet
+script "C:\path\to\toilet.scr"
+copy toilet_color @BATHROOM_X @BATHROOM_Y
