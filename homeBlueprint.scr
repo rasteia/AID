@@ -10,6 +10,9 @@ include "windows.scr";
 // Doors
 include "doors.scr";
 
+// Exterior Walls
+include "extWalls.scr";
+
 // Interior Walls
 include "intWalls.scr";
 
@@ -23,4 +26,5 @@ drawRectangle(0, 0, WIDTH, HEIGHT);
 include "windowsData.scr";
 include "doorsData.scr";
 include "intWallsData.scr";
+include "extWallsData.scr";
 include "plumbingData.scr";
