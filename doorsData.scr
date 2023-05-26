@@ -1,0 +1,4 @@
+// doorsData.scr
+
+// Place doors
+placeDoor(400, 500, 80, 200);
