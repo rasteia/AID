@@ -1,0 +1,50 @@
+; Set the units to millimeters
+units mm
+
+; Create the toilet layer and set its properties
+layer
+  make
+  toilet_color
+  color
+  7
+layer
+  on
+  toilet_color
+
+; Draw the toilet outline
+rectangle
+  0,0
+  685,800
+
+rectangle
+  100,800
+  585,850
+
+line
+  100,825
+  585,825
+
+rectangle
+  100,875
+  585,900
+
+line
+  100,885
+  585,885
+
+rectangle
+  100,925
+  585,950
+
+line
+  100,935
+  585,935
+
+circle
+  130,600
+  25
+
+; Set the active layer back to "0"
+layer
+  on
+  0
