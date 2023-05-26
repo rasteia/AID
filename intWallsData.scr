@@ -1,0 +1,5 @@
+// intWallsData.scr
+
+// Place interior walls
+placeInteriorWall(200, 0, 200, HEIGHT);
+placeInteriorWall(600, 0, 600, HEIGHT);
