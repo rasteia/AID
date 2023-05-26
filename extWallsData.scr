@@ -1,0 +1,4 @@
+// extWallsData.scr
+
+// Draw the exterior walls
+drawExteriorWalls(WIDTH, HEIGHT);
