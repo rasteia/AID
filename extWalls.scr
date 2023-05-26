@@ -1,0 +1,11 @@
+// extWalls.scr
+
+// Function to draw the exterior walls
+function drawExteriorWalls(width, height) {
+    // Implementation for drawing the exterior walls
+    // Use the provided width and height to determine the dimensions of the walls
+    // ...
+}
+
+// Include the exterior wall data
+include "extWallsData.scr";
